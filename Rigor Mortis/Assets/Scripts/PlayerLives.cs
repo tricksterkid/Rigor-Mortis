@@ -60,6 +60,5 @@ public class PlayerLives : MonoBehaviour
                 other.gameObject.SetActive(false);
             }
         }
-
     }
 }
